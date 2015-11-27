@@ -1,0 +1,6 @@
+Name,Occupation,Salary,Expenses,Married,Children
+Bob,Plumber,50000,3000,TRUE,0
+Larry,Electrician,55000,4000,FALSE,0
+Jane,Doctor,150000,1500,TRUE,1
+Hillary,Lawyer,125000,1500,TRUE,3
+Jobe,Unemployed,0,500,FALSE,2
